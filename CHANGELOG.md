@@ -9,6 +9,12 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Fixed
 
+- Fixed issue with clientonly not updating with IP address and port provided on command line.
+
+## [2.4.1] - 2018-07-04
+
+### Fixed
+
 - Fix weather parsing issue #1332.
 
 ## [2.4.0] - 2018-07-01
